@@ -8,4 +8,4 @@ For this project we need following components -
 5. HC05 bluetooth module.
 6. breadboard.
 7. jumper cable.
-![](testing20%circuit.JPG)
+![](/testing20%circuit.JPG)
